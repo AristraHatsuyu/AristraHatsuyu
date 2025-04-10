@@ -9,9 +9,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nuxt,vue,ts,js,py,cpp,php,nodejs,docker,git,linux,vscode&perline=6" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AristraHatsuyu&show_icons=true&hide_title=true&hide_border=true&hide=issues&theme=transparent&icon_color=8be9fd&text_color=dddddd" width="40%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristraHatsuyu&layout=compact&theme=transparent&hide_border=true" width="40%" />
