@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&center=true&vCenter=true&width=380&lines=hello+world;exploring+systems+and+signals;shaping+order+from+chaos" alt="Typing SVG" />
 </p>
 
----
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nuxt,vue,ts,js,py,cpp,php,nodejs,docker,git,linux,vscode&perline=6" />
 </p>
@@ -13,8 +11,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristraHatsuyu&layout=compact&theme=transparent&hide_border=true" width="40%" />
 </p>
-
----
 
 <p align="center">
   <p align="center">
