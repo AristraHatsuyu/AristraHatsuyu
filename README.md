@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nuxt,vue,ts,js,py,cpp,php,nodejs,docker,git,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js,nuxt,vue,py,cpp,php,nodejs,swift,unity,unrealengine,arduino,docker,git,linux,vscode&perline=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristraHatsuyu&layout=compact&theme=transparent&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristraHatsuyu&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
