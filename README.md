@@ -1,7 +1,7 @@
 <h1 align="left">Aristra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&center=true&vCenter=true&width=380&lines=hello+world;exploring+systems+and+signals;shaping+order+from+chaos" alt="Typing SVG" />
+  <img src="https://aristra-githubcard.vercel.app/api/stats?username=AristraHatsuyu" alt="Status SVG" />
 </p>
 
 <p align="center">
@@ -10,6 +10,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristraHatsuyu&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&center=true&vCenter=true&width=380&lines=hello+world;exploring+systems+and+signals;shaping+order+from+chaos" alt="Typing SVG" />
 </p>
 
 <p align="center">
