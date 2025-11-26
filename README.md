@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristraHatsuyu&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://githubcard.aristra.top/api/lang?username=AristraHatsuyu" />
 </p>
 
 <p align="center">
